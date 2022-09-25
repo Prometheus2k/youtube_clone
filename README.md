@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Hosted [Here](https://youtube-clone-6416.netlify.app/)
+Hosted website on https://youtube-clone-6416.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
